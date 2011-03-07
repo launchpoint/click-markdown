@@ -1,0 +1,1 @@
+If you have never used Markdown before, check out the manual at the [Markdown home page](http://daringfireball.net/projects/markdown/)
